@@ -39,9 +39,6 @@ I am a passionate full-stack developer with a strong aptitude for solving comple
                     </a></p> <br> <br>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![GitHub Snake Light](https://github.com/Andryfitia/Andryfitia/raw/main/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Andryfitia/Andryfitia/raw/main/dist/github-snake-dark.svg#gh-dark-mode-only)
         
