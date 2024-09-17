@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  # Run automatically at 00:00 UTC every day
+  schedule:
+    - cron: "0 0 * * *"
+  # Run manually
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v2
+
+      # Generate the snake animation
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Upload the output to the repository as artifacts
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-snake
+          path: dist/
