@@ -39,5 +39,8 @@ I am a passionate full-stack developer with a strong aptitude for solving comple
                     </a></p> <br> <br>
 
 
- 
+ ### Watch my contribution graph get eaten by the snake 🐍
+
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
         
