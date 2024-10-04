@@ -39,6 +39,4 @@ I am a passionate full-stack developer with a strong aptitude for solving comple
                     </a></p> <br> <br>
 
 
-![GitHub Snake Light](https://github.com/Andryfitia/Andryfitia/raw/main/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Andryfitia/Andryfitia/raw/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-        
+
