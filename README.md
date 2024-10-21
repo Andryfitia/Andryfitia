@@ -38,6 +38,4 @@ I am a passionate full-stack developer with a strong aptitude for solving comple
                     </picture>
                     </a></p> <br> <br>
 
-![GitHub Snake Animation](https://github.com/Andryfitia/Andryfitia/blob/output/github-snake.svg)
-
 
