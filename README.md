@@ -32,7 +32,6 @@ I am a passionate full-stack developer with a strong aptitude for solving comple
                     </a>
                      <picture>
                    
-                    </picture>
-                    </a></p> <br> <br>
+               
 
 
