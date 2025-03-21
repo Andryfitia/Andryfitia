@@ -30,8 +30,7 @@ I am a passionate full-stack developer with a strong aptitude for solving comple
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/andry-ny-fitiavana-4659b1254" target="_blank" rel="noreferrer">
-                    <picture>
+                     <picture>
                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p> <br> <br>
