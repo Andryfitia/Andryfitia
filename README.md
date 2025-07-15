@@ -111,7 +111,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 - **3D Action Games** - Immersive gaming experiences
 - **Level Design** - Detailed game environments
 - **Character Animation** - Smooth character movement systems
-- **AR/VR Experiences** - Augmented Virtual reality applications
+- **AR/VR Experiences** - Augmented & Virtual reality applications
 
 ---
 
