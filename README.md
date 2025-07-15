@@ -87,16 +87,16 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 | Skill | Level | Description |
 |-------|-------|-------------|
-| 🎮 Game Development | ⭐⭐⭐⭐⭐ | Complete game systems & mechanics |
+| 🎮 Game Development | ⭐⭐⭐ | Complete game systems & mechanics |
 | 🏗️ Level Design | ⭐⭐⭐⭐⭐ | Environment creation & world building |
 | 🎬 Animation | ⭐⭐⭐⭐ | Character & object animation systems |
-| 🔧 Blueprint Scripting | ⭐⭐⭐⭐⭐ | Visual scripting & game logic |
+| 🔧 Blueprint Scripting | ⭐⭐⭐⭐ | Visual scripting & game logic |
 | 💻 C++ Programming | ⭐⭐⭐⭐ | Core engine programming |
 | 🌎 3D Modeling | ⭐⭐⭐⭐ | Asset creation & optimization |
 | 💡 Lighting & Rendering | ⭐⭐⭐⭐ | Realistic lighting systems |
-| 🎪 VR/AR Development | ⭐⭐⭐ | Immersive experience creation |
+| 🎪 VR/AR Development | ⭐⭐⭐⭐ | Immersive experience creation |
 | ✨ Niagara VFX | ⭐⭐⭐⭐ | Particle systems & visual effects |
-| 🤖 AI Behavior Trees | ⭐⭐⭐⭐ | Intelligent NPC systems |
+| 🤖 AI Behavior Trees | ⭐⭐ | Intelligent NPC systems |
 
 ---
 
@@ -109,16 +109,6 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andryfitia&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andryfitia&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Andryfitia&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
   
 </div>
 
@@ -144,7 +134,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 ```
 🎨 UI/UX Design        ████████████████████ 100%
-🎮 Game Development    ████████████████████ 100%
+🎮 Game Development    ████████████████░░░░  85%
 🎬 3D Animation        ████████████████░░░░  85%
 🏗️ Level Design        ████████████████████ 100%
 ✨ Visual Effects      ████████████████░░░░  80%
