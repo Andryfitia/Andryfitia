@@ -21,7 +21,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 - 🌍 Based in **Antananarivo, Madagascar**
 - 💻 Specializing in **React** and **Next.js** development
-- 🎮 Expert in **Unreal Engine** game development
+- 🎮 proficient in **Unreal Engine** game development
 - 🎨 Passionate about **UI/UX design** and **3D animation**
 - 🔧 Always learning and adapting to new technologies
 - ⚡ Fun fact: I love combining web development with game development!
