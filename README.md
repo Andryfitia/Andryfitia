@@ -33,10 +33,10 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 ### Frontend & React Ecosystem
 <div align="center">
   
-![React](https://img.shields.io/badge/React-0f1a2c?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-0f1a2c?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-0f1a2c?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f1a2c?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f1a2c?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f1a2c?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0f1a2c?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0f1a2c?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-0f1a2c?style=for-the-badge&logo=sass&logoColor=white)
@@ -52,7 +52,8 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0f1a2c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-313131?style=for-the-badge&logo=blender&logoColor=white)
-  
+
+
 </div>
 
 ### Backend & Database
@@ -115,16 +116,6 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 ---
 
-## 🎨 Creative Skills
-
-```
-🎨 UI/UX Design        ████████████████████ 100%
-🎮 Game Development    ████████████████░░░░  85%
-🎬 3D Animation        ████████████████░░░░  85%
-🏗️ Level Design        ████████████████████ 100%
-✨ Visual Effects      ████████████████░░░░  80%
-🎪 VR/AR Development   ████████████░░░░░░░░  60%
-```
 
 ---
 
