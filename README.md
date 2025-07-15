@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=UI+UXDesigner;React+Specialist;Unreal+Engine+Developer;Game+Designer+%26+Animator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=1f2e59&center=true&vCenter=true&width=600&lines=UI/UX+Designer;React+Specialist;Unreal+Engine+Developer;Game+Designer+%26+Animator)
   
 </div>
 
