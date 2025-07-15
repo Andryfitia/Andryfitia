@@ -8,8 +8,8 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-andryfitia8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&labelColor=1c1917)](mailto:andryfitia8@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Antananarivo%2C%20Madagascar-red?style=for-the-badge&logo=googlemaps&logoColor=white&color=4285f4&labelColor=1c1917)]()
+[![Email](https://img.shields.io/badge/Email-andryfitia8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=0f1a2c&labelColor=1c1917)](mailto:andryfitia8@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Antananarivo%2C%20Madagascar-red?style=for-the-badge&logo=googlemaps&logoColor=white&color=0f1a2c&labelColor=1c1917)]()
   
 </div>
 
@@ -33,16 +33,16 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 ### Frontend & React Ecosystem
 <div align="center">
   
-![React](https://img.shields.io/badge/React-6079a2?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-405e90?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6a81b3?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5079b7?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-5079b7?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6a81b3?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-6079a2?style=for-the-badge&logo=sass&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-0f1a2c?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f1a2c?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f1a2c?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f1a2c?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0f1a2c?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0f1a2c?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-0f1a2c?style=for-the-badge&logo=sass&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0f1a2c?style=for-the-badge&logo=material-ui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f1a2c?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0f1a2c?style=for-the-badge&logo=redux&logoColor=white)
   
 </div>
 
@@ -50,33 +50,32 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 <div align="center">
   
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-0f1a2c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-313131?style=for-the-badge&logo=blender&logoColor=white)
   
 </div>
 
 ### Backend & Database
 <div align="center">
   
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0f1a2c?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0f1a2c?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1a2c?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1a2c?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0f1a2c?style=for-the-badge&logo=mysql&logoColor=white)
   
 </div>
 
 ### Tools & Technologies
 <div align="center">
   
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f1a2c?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f1a2c?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Rider-0f1a2c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0f1a2c?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0f1a2c?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-0f1a2c?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-0f1a2c?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
   
 </div>
 
@@ -133,9 +132,9 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andryfitia)
+[![GitHub](https://img.shields.io/badge/GitHub-0f1a2c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andryfitia)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100039060133896)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andryfitia8@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-0f1a2c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andryfitia8@gmail.com)
   
 </div>
 
