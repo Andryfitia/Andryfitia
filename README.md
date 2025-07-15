@@ -100,19 +100,6 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andryfitia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andryfitia&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andryfitia&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF)
-  
-</div>
-
----
 
 ## 🌟 Featured Projects
 
@@ -126,7 +113,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 - **3D Action Games** - Immersive gaming experiences
 - **Level Design** - Detailed game environments
 - **Character Animation** - Smooth character movement systems
-- **VR Experiences** - Virtual reality applications
+- **AR/VR Experiences** - Augmented Virtual reality applications
 
 ---
 
