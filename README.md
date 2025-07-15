@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Andry Ny Fitiavana**
+# I'm **Andry Ny Fitiavana**
 
 <div align="center">
   
