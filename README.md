@@ -93,7 +93,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 | 🌎 3D Modeling | ⭐⭐⭐⭐ | Asset creation & optimization |
 | 💡 Lighting & Rendering | ⭐⭐⭐⭐ | Realistic lighting systems |
 | 🎪 VR/AR Development | ⭐⭐⭐⭐ | Immersive experience creation |
-| ✨ Niagara VFX | ⭐⭐⭐⭐ | Particle systems & visual effects |
+| ✨ Niagara VFX | ⭐⭐⭐ | Particle systems & visual effects |
 | 🤖 AI Behavior Trees | ⭐⭐ | Intelligent NPC systems |
 
 ---
