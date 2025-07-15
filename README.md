@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a passionate **full-stack developer** with expertise in the **React ecosystem** and **Unreal Engine game development**. I specialize in crafting visually stunning web applications and immersive gaming experiences.
 
@@ -28,9 +28,9 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### Frontend & React Ecosystem
+###   Frontend & React Ecosystem
 <div align="center">
   
 ![React](https://img.shields.io/badge/React-0f1a2c?style=for-the-badge&logo=react&logoColor=white)
@@ -46,7 +46,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
   
 </div>
 
-### Game Development & 3D
+###   Game Development & 3D
 <div align="center">
   
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
@@ -56,7 +56,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 </div>
 
-### Backend & Database
+###   Backend & Database
 <div align="center">
   
 ![Node.js](https://img.shields.io/badge/Node.js-0f1a2c?style=for-the-badge&logo=node.js&logoColor=white)
@@ -67,7 +67,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
   
 </div>
 
-### Tools & Technologies
+###   Tools & Technologies
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-0f1a2c?style=for-the-badge&logo=git&logoColor=white)
@@ -82,7 +82,7 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 ---
 
-## 🎮 Unreal Engine Expertise
+##  Unreal Engine Expertise
 
 | Skill | Level | Description |
 |-------|-------|-------------|
@@ -100,15 +100,15 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 ---
 
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🚀 React Applications
+###  React Applications
 - **Modern Web Apps** - Full-stack React applications with Next.js
 - **Interactive UIs** - Dynamic user interfaces with Material-UI
 - **E-commerce Platforms** - Complete shopping solutions
 - **Dashboard Systems** - Real-time data visualization
 
-### 🎮 Game Development
+###  Game Development
 - **3D Action Games** - Immersive gaming experiences
 - **Level Design** - Detailed game environments
 - **Character Animation** - Smooth character movement systems
