@@ -8,7 +8,6 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/Andryfitia?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2&labelColor=1c1917)](https://github.com/Andryfitia)
 [![Email](https://img.shields.io/badge/Email-andryfitia8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&labelColor=1c1917)](mailto:andryfitia8@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Antananarivo%2C%20Madagascar-red?style=for-the-badge&logo=googlemaps&logoColor=white&color=4285f4&labelColor=1c1917)]()
   
@@ -154,6 +153,5 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
 
 <div align="center">
   
-**⚡ Thanks for visiting my profile! Let's build something amazing together! ⚡**
   
 </div>
