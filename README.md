@@ -144,7 +144,6 @@ I am a passionate **full-stack developer** with expertise in the **React ecosyst
   
 ### 💫 "Creating digital experiences that inspire and engage"
   
-![Profile Views](https://komarev.com/ghpvc/?username=Andryfitia&color=00FFFF&style=for-the-badge)
   
 </div>
 
